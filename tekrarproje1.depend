@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1714661832 source:c:\users\bakis\onedrive\masaüstü\wduh.c\tekrarproje1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
